@@ -8,8 +8,8 @@
   },
   {
     "id": "1045a0436a3dd3c1",
-    "username": "user1",
-    "password": "pass1",
+    "username": "user",
+    "password": "pass",
     "expiresAt": "2027-11-30",
     "allowOffline": false
   }
